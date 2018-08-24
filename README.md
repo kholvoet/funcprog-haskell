@@ -31,4 +31,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 This project is licenesed under the Apache-2.0 License - see the LICENSE file.
 
-## Acknolodgements
+## Acknowledgements

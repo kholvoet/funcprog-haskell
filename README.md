@@ -5,6 +5,15 @@ Exploration and exercise code for learning Richard Bird's [Introduction to Funct
 
 ### Prerequisites
 
+```
+cabal install cabal-install
+cabal install cabal-dev
+cabal install test-framework
+cabal install test-framework-quickcheck
+cabal install test-framework-quickcheck2
+cabal install test-framework-hunit
+```
+
 ### Installing
 ```
 cabal sandbox init

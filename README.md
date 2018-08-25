@@ -26,6 +26,9 @@ cabal install -j
 ```
 
 ## Runnning the tests
+```
+cabal test
+```
 
 ## Deployment
 
